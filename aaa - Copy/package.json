@@ -1,0 +1,7 @@
+{
+  "name": "GitHubTest2",
+  "version": "0.1",
+  "fullName": "GitHub Test Deplyment",
+  "description": "...",
+  "sources": ["ntseq/ntseq.js", "feature-viewer/feature-viewer.bundle.js", "msa/msa.min.gz.js"]
+}
